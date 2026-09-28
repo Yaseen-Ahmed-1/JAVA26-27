@@ -103,7 +103,8 @@ class Main {
     2) Write the java code that will calculate how many eggs
     are left over after we filled as many baskets of 12 eggs.
 */
-
+    double eggs = 100;
+    
 
 
 
