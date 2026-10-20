@@ -36,7 +36,7 @@ class Main {
    else if
 		(25.0<= bmi <= 39.9)
 			return overweight;
-   else if
+   else 
 		return Obese;
 
 
